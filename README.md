@@ -1,5 +1,5 @@
 # 🖤
 
 <div align="center">
-  <img src="./assets/simpsons.png" width="70%" alt="Calculator">
+  <img src="./assets/simpsons.png" width="50%" alt="Calculator">
 </div>
